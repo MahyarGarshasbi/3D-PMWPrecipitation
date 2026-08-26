@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MahyarGarshasbi/3D-PMWPrecipitation/main/Figures/FIG.png" width="850">
+  <img src="https://raw.githubusercontent.com/MahyarGarshasbi/3D-PMWPrecipitation/main/Figures/Fig03.png" width="850">
 </p>
 
 ---
