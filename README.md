@@ -17,7 +17,7 @@ Deep learning methods for retrieving precipitation from passive microwave satell
 ---
 
 ## Code Availability
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zbpfrCPEeOfcZdJRsDcdscqjnSpjNccT?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xj4AlvYSF5nIfrCL68XSCH_JDoirzWgs?usp=sharing)
 
 
 ---
